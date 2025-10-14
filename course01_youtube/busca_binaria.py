@@ -1,3 +1,4 @@
+#  Complexidade log(n)
 def search_binary(list, item):
     low = 0
     high = len(list) - 1
